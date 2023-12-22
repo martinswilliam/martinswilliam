@@ -1,7 +1,9 @@
-### Hi there 👋
+### Olá 👋
 
-### Eu sou o William Martins 🖐️
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-gomes-martins-93127426a/)
+### Eu sou o William Martins 🖐️<br/>
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação 👨‍💻
+
+
 
 
 ![William Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=martinswilliam&show_icons=true&theme=dracula)
@@ -20,4 +22,10 @@
 
 <br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação 👨‍💻
+## Contatos
+<div style="display: inline_block"><br/>
+</div>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-gomes-martins-93127426a/)
+
+<img align="center" alt="html5" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> williamgmca@gmail.com
