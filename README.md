@@ -7,7 +7,7 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 
 ![William Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=martinswilliam&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinswilliam&layout=compact)
 
 
 ## Tecnologias que eu uso no meu dia
